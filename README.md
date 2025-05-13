@@ -18,4 +18,11 @@ We are hoping to utilize the Amazon Product Advertising API to retrieve product 
 
 ## Current State
 
-As of right now this application is in the beginning stages of development. If or once the approval to be part of Amazon's Associate Program gets accepted, there will be more information posted.
+We just released our first version of Deal Radar!
+
+## Download Deal Radar
+
+To download this application, hold down on the .apk file in the
+root directory and select "Save Link As..."
+
+Then after download has finished, click on the .apk file to install the app.
