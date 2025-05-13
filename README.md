@@ -26,3 +26,5 @@ To download this application, hold down on the .apk file in the
 root directory and select "Save Link As..."
 
 Then after download has finished, click on the .apk file to install the app.
+
+**Make sure to allow your phone to download applications from unknown sources.**
