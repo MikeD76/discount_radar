@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: discount_tracker
+  annotations:
+    github.com/project-slug: MikeD76/discount_tracker
+spec:
+  type: other
+  lifecycle: unknown
+  owner: guests
